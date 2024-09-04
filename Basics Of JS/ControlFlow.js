@@ -31,15 +31,13 @@ if(a > b){
 //switch case
 
 let a = 'Apple', b = 'Banana', c ='cutie';
-let x = 1;
+let x = b;
 switch(x){
-    case 0:{
-        x = a;
+    case a:{
         console.log(a);
         break;
     }
-    case 1:
-        x = b;
+    case b:
         console.log(b);
         break;
     default:
