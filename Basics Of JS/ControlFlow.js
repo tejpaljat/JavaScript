@@ -29,7 +29,7 @@ if(a > b){
 */
 
 //switch case
-
+  
 let a = 'Apple', b = 'Banana', c ='cutie';
 let x = b;
 switch(x){
