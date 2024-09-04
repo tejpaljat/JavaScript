@@ -28,13 +28,13 @@ if(a > b){
 }
 */
 
-//switch case
+//switch case is work same as else if 
   
 let a = 'Apple', b = 'Banana', c ='cutie';
 let x = b;
 switch(x){
     case a:{
-        console.log(a);
+        console.log(a); 
         break;
     }
     case b:
